@@ -17,7 +17,7 @@ Some of my Data Science Projects
 * Build a recommendation model on training data
 * Make predictions on the test data
 
-# Project 2: Deep Learning for Lending Club Loan Data Analysis 
+# [Project 2: Deep Learning for Lending Club Loan Data Analysis](https://github.com/KamilaKare/deep_learning/blob/main/projet_DL.ipynb) 
 
 * DESCRIPTION: Create a model that predicts whether or not a loan will be default using the historical data.
 
