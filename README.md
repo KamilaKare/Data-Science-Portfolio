@@ -29,7 +29,7 @@ Some of my Data Science Projects
 
 * Analysis to be done: Perform data preprocessing and build a deep learning prediction model. 
 
-# Project 3: Big data analysis with Pyspark
+# [Project 3: Big data analysis with Pyspark](https://github.com/KamilaKare/Big-data-project/blob/main/project_Bigdata.ipynb)
 
 * Domain Banking-Market-Analysis-
 
