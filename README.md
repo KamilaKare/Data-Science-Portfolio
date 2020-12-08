@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 Some of my Data Science Projects
 
-# Project 1: Recommandation System for Netflix
+# [Project 1: Recommandation System for Netflix](https://github.com/KamilaKare/recommander-system/blob/master/recommander.ipynb)
 
 * The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.
 
