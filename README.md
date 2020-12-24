@@ -34,8 +34,8 @@ You are a data scientist at Twitter, and you will help Twitter in identifying th
 
 Analysis to be done: Clean up tweets and build a classification model by using NLP techniques, cleanup specific for tweets data, regularization and hyperparameter tuning using stratified k-fold and cross validation to get the best model.
 
- # [Project 4 Anomalie Detection in Finance (cards frauds) using Machine and Deep Learning (https://github.com/KamilaKare/deep_learning/blob/main/AI%20Capstone.ipynb)]
- 
+ # [Project 4 Anomalie Detection in Finance (cards frauds) using Machine and Deep Learning] 
+ (https://github.com/KamilaKare/deep_learning/blob/main/AI%20Capstone.ipynb)
  * Problem Statement
  
  Finance Industry is the biggest consumer of Data Scientists. It faces constant attack by fraudsters, who try to trick the system. Correctly identifying fraudulent transactions is often compared with finding needle in a haystack because of the low event rate. 
