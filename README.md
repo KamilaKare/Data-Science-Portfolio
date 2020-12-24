@@ -25,9 +25,7 @@ Your client, a Portuguese banking institution, ran a marketing campaign to convi
 # [Project 3: Using NLP and ML, make a model to identify hate speech (racist or sexist tweets) in Twitter.](https://github.com/KamilaKare/deep_learning/blob/main/ProjectNLP.ipynb)
 
 * Problem Statement:  
-
 Twitter is the biggest platform where anybody and everybody can have their views heard. Some of these voices spread hate and negativity. Twitter is wary of its platform being used as a medium  to spread hate. 
-
 You are a data scientist at Twitter, and you will help Twitter in identifying the tweets with hate speech and removing them from the platform. You will use NLP techniques, perform specific cleanup for tweets data, and make a robust model.
 
 * Domain: Social Media
@@ -38,14 +36,13 @@ You are a data scientist at Twitter, and you will help Twitter in identifying th
 
 
  * Problem Statement
- 
- Finance Industry is the biggest consumer of Data Scientists. It faces constant attack by fraudsters, who try to trick the system. Correctly identifying fraudulent transactions is often compared with finding needle in a haystack because of the low event rate. 
+Finance Industry is the biggest consumer of Data Scientists. It faces constant attack by fraudsters, who try to trick the system. Correctly identifying fraudulent transactions is often compared with finding needle in a haystack because of the low event rate. 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that the customers are not charged for items that they did not purchase.
 * You are required to try various techniques such as supervised models with oversampling, unsupervised anomaly detection, and heuristics to get good accuracy at fraud detection.
 
 # [Project 5: Recommandation System for Netflix](https://github.com/KamilaKare/recommander-system/blob/master/recommander.ipynb)
 
-* Problem Statement
+* Problem Statement: 
 The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.
 
 * Analysis Task
